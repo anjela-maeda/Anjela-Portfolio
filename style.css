@@ -1,0 +1,48 @@
+body {
+
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    background: #f4f4f4;
+    color: #333;
+}
+
+header {
+
+background: #0b5d3b;
+color: white;
+text-align: center;
+padding: 40px;
+
+}
+
+section {
+background: white;
+margin: 20px;
+padding: 20px;
+border-radius: 10px;
+
+}
+
+h2 {
+    color: 0b5d3b;
+
+}
+
+ul {
+    line-height: 2;
+}
+
+nav {
+background: #333;
+padding: 15px;
+text-align: center;
+
+}
+
+nav a {
+color: white;
+text-decoration: none;
+margin: 15px;
+font-size: 18px;
+
+}
