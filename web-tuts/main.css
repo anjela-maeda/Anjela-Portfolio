@@ -1,0 +1,27 @@
+.box0{
+    width: 200px;
+    height: 200px;
+    background-color: green;
+    margin: 10px;
+}
+
+.box2{
+    width: 200px;
+    height: 200px;
+    background-color: yellow;
+    margin: 10px;
+}
+
+.box1{
+    width: 200px;
+    height: 200px;
+    background-color: rgb(230, 87, 4);
+   
+}
+
+.container{
+    display:flex;
+    flex-direction: column;
+    
+
+}
